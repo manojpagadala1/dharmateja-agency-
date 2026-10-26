@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 260" role="img" aria-label="Aam Panna 200 ml">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#fff1d9"/>
+      <stop offset="100%" stop-color="#ffffff"/>
+    </linearGradient>
+  </defs>
+  <rect width="320" height="260" fill="url(#g)"/>
+  <rect x="26" y="26" width="268" height="208" rx="28" fill="#ffffff" opacity="0.88"/>
+  <rect x="56" y="52" width="208" height="56" rx="18" fill="#ff9f1c" opacity="0.96"/>
+  <text x="160" y="89" text-anchor="middle" font-size="20" font-weight="700" font-family="Arial, sans-serif" fill="#2d1f00">Paper Boat</text>
+  <rect x="76" y="118" width="168" height="60" rx="18" fill="#fff1d9" stroke="#ff9f1c" stroke-width="2"/>
+  <text x="160" y="148" text-anchor="middle" font-size="23" font-weight="800" font-family="Arial, sans-serif" fill="#ff9f1c">Aam Panna</text>
+  <text x="160" y="192" text-anchor="middle" font-size="24" font-weight="700" font-family="Arial, sans-serif" fill="#1f2d28">200 ml</text>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 260" role="img" aria-label="Herbal Soap 125 g">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#eaf6ee"/>
+      <stop offset="100%" stop-color="#ffffff"/>
+    </linearGradient>
+  </defs>
+  <rect width="320" height="260" fill="url(#g)"/>
+  <rect x="26" y="26" width="268" height="208" rx="28" fill="#ffffff" opacity="0.88"/>
+  <rect x="56" y="52" width="208" height="56" rx="18" fill="#257d4b" opacity="0.96"/>
+  <text x="160" y="89" text-anchor="middle" font-size="20" font-weight="700" font-family="Arial, sans-serif" fill="#ffffff">Medimix</text>
+  <rect x="76" y="118" width="168" height="60" rx="18" fill="#eaf6ee" stroke="#257d4b" stroke-width="2"/>
+  <text x="160" y="148" text-anchor="middle" font-size="23" font-weight="800" font-family="Arial, sans-serif" fill="#257d4b">Herbal Soap</text>
+  <text x="160" y="192" text-anchor="middle" font-size="24" font-weight="700" font-family="Arial, sans-serif" fill="#1f2d28">125 g</text>
+</svg>
